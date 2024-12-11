@@ -1,3 +1,4 @@
 Django==5.1.2
 pytest==8.3.3
 pytest-django==4.9.0
+django-browser-reload==1.16.0
