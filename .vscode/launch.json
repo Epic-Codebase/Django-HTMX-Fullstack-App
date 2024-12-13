@@ -1,0 +1,13 @@
+{
+    "name": "Python: Current File (Integrated Terminal)",
+    "type": "python",
+    "request": "launch",
+    "program": "${file}",
+    "console": "integratedTerminal",
+    "justMyCode": false,
+    "args": [
+        "-m",
+        "pytest"
+    ],
+ 
+}
